@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
     private $projects = [
-        'ecommerce-1' => [
+        'technology-and-electronics-store' => [
             'title' => 'Technology & Electronics Store',
             'category' => 'Ecommerce',
             'client' => 'Technology Store',

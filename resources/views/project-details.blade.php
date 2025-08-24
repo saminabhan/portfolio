@@ -103,7 +103,7 @@
                 <li><strong>Category</strong> {{ $project['category'] }}</li>
                 <li><strong>Client</strong> {{ $project['client'] }}</li>
                 <li><strong>Project date</strong> {{ $project['date'] }}</li>
-                <li><strong>Project URL</strong> <a href="{{ $project['url'] }}">{{ $project['url'] }}</a></li>
+                <li><strong>Project URL</strong> <a href="{{ $project['url'] }}" target="_blank">{{ $project['url'] }}</a></li>
                 <li><a href="{{ $project['url'] }}" class="btn-visit align-self-start" target="_blank">Visit Website</a></li>
               </ul>
             </div>
