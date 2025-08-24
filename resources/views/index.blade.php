@@ -1,13 +1,7 @@
 @extends('layouts.app')
 @section('content')
   <!-- Hero Section -->
-  <section id="hero" class="hero section dark-background">
-
-<<<<<<< HEAD
-    <img src="assets/img/main-profile.jpg" alt="" data-aos="fade-in">
-=======
-    <img src="assets/img/main-profile.JPG" alt="" data-aos="fade-in">
->>>>>>> cf41846f845d24effc8f5c58b1fa231f2bcb38a9
+  <section id="hero" class="hero section dark-background"<<<    <img src="assets/img/main-profile.jpg" alt="" data-aos="fade-in">
 
     <div class="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
       <h2>I am Sami Nabhan</h2>
@@ -24,11 +18,7 @@
   <div class="row gy-4">
     <div class="col-md-6 d-flex flex-column align-items-center text-center">
 
-<<<<<<< HEAD
       <img src="assets/img/profile.JPG" class="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
-=======
-      <img src="assets/img/profile.jpg" class="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
->>>>>>> cf41846f845d24effc8f5c58b1fa231f2bcb38a9
       
       <div class="about-info p-5 about-profile-info">
         <p><strong>Name: </strong> <span>Sami Wael Nabhan</span></p>
@@ -193,11 +183,10 @@
             <div class="icon">
               <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
             </div>
-<<<<<<< HEAD
               <h3>PHP</h3>
-=======
-              <h3>PHP Pure</h3>
->>>>>>> cf41846f845d24effc8f5c58b1fa231f2bcb38a9
+src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
+            </div>
+              <h3>PHP</h3>
             <p>Experienced in crafting efficient and scalable web solutions using core PHP.</p>
           </div>
         </div><!-- End Service Item -->
