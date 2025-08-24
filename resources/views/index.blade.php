@@ -315,7 +315,7 @@
           <p>A project showcasing an ecommerce platform</p>
           <a href="assets/img/portfolio/ecommerce(1).png" title="Technology & Electronics Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
-          <!-- <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
+          <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
