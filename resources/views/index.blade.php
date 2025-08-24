@@ -184,8 +184,6 @@
               <img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP Logo" style="width: 30px; height: 30px; filter: brightness(0) invert(1);">
             </div>
               <h3>PHP</h3>
-            </div>
-              <h3>PHP</h3>
             <p>Experienced in crafting efficient and scalable web solutions using core PHP.</p>
           </div>
         </div><!-- End Service Item -->
