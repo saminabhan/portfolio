@@ -34,7 +34,7 @@
         <h4>About me</h4>
         <p>
           I am a proficient web developer with extensive expertise in backend development, specializing in Laravel and pure PHP. 
-          My ability to craft solutions using pure PHP ensures maximum flexibility and customization,
+          My ability to craft solutions using PHP ensures maximum flexibility and customization,
           while my experience with Laravel allows me to handle large-scale enterprise applications with a focus on performance and clean coding practices.
           I am well-versed in designing databases, managing permissions,
           and creating robust API applications tailored to diverse needs.
