@@ -24,7 +24,7 @@ class HomeController extends Controller
             ],
             'technologies' => ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
             'images' => [
-                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(1).png")',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(1).png',
                 'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(2).png',
                 'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(3).PNG',
                 'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(4).PNG',
