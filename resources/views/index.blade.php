@@ -1,7 +1,9 @@
 @extends('layouts.app')
 @section('content')
   <!-- Hero Section -->
-  <section id="hero" class="hero section dark-background"<<<    <img src="assets/img/main-profile.jpJPGalt="" data-aos="fade-in">
+  <section id="hero" class="hero section dark-background">
+
+    <img src="assets/img/main-profile.jpg" alt="" data-aos="fade-in">
 
     <div class="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
       <h2>I am Sami Nabhan</h2>
@@ -9,7 +11,6 @@
     </div>
 
   </section><!-- /Hero Section -->
-
  <!-- About Section -->
 <section id="about" class="about section">
 
@@ -18,7 +19,7 @@
   <div class="row gy-4">
     <div class="col-md-6 d-flex flex-column align-items-center text-center">
 
-      <img src="assets/img/profile.JPjpgclass="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
+      <img src="assets/img/profile.JPG" class="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
       
       <div class="about-info p-5 about-profile-info">
         <p><strong>Name: </strong> <span>Sami Wael Nabhan</span></p>
