@@ -315,7 +315,7 @@
           <p>A project showcasing an ecommerce platform</p>
           <a href="assets/img/portfolio/ecommerce(1).png" title="Technology & Electronics Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
-          <a href="{{ route('project-details') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+          <a href="{{ route('project-details', 'ecommerce-1') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
@@ -326,7 +326,7 @@
           <p>A project showcasing an ecommerce platform</p>
           <a href="assets/img/portfolio/ecommerce(3).png" title="Clothing Shopping Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
-          <!-- <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
+          <a href="{{ route('project-details', 'ecommerce-2') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
@@ -337,7 +337,7 @@
           <p>A project showcasing a dashboard interface</p>
           <a href="assets/img/portfolio/dashboard(1).png" title="Dashboard(1) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
-          <!-- <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
+          <a href="{{ route('project-details', 'dashboard-1') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
@@ -348,7 +348,7 @@
           <p>A project showcasing a dashboard interface</p>
           <a href="assets/img/portfolio/dashboard(2).png" title="Dashboard(2) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
-          <!-- <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
+          <a href="{{ route('project-details', 'dashboard-2') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 

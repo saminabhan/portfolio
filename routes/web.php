@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [HomeController::class, 'index'])->name('home.index');
-Route::get('/details', [HomeController::class, 'PortfolioDetails'])->name('home.details');
-Route::get('/project-details', [HomeController::class, 'projectDetails'])->name('project-details');
+Route::get('/portfolio-details', [HomeController::class, 'PortfolioDetails'])->name('portfolio-details.default');
+Route::get('/portfolio/{projectId}', [HomeController::class, 'projectDetails'])->name('project-details');
 Route::post('/contact-submit', [ContactController::class, 'submit'])->name('contact.submit');
 
