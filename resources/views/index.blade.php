@@ -24,7 +24,7 @@
       <div class="about-info p-5 about-profile-info">
         <p><strong>Name: </strong> <span>Sami Wael Nabhan</span></p>
         <p><strong>Profile: </strong> <span>Full Stack Developer</span></p>
-        <p><strong>Email: </strong> <span>sami.nabhan20@gmail.com</span></p>
+        <p><strong>Email: </strong> <span>sami@infinet.ps</span></p>
         <p><strong>Phone: </strong> <span>(+972) 599-302930</span></p>
       </div>
     </div>
@@ -33,7 +33,7 @@
       <div class="about-me">
         <h4>About me</h4>
         <p>
-          I am a proficient web developer with extensive expertise in backend development, specializing in Laravel and pure PHP. 
+          I am a proficient web developer with extensive expertise in backend development, specializing in Laravel and PHP. 
           My ability to craft solutions using PHP ensures maximum flexibility and customization,
           while my experience with Laravel allows me to handle large-scale enterprise applications with a focus on performance and clean coding practices.
           I am well-versed in designing databases, managing permissions,
@@ -82,7 +82,7 @@
             <ul>
               <li>Gaza Anssar St. ,Palestine</li>
               <li>(+972) 599-302930</li>
-              <li>sami.nabhan20@gmail.com</li>
+              <li>sami@infinet.ps</li>
             </ul>
           </div><!-- Edn Resume Item -->
 
@@ -399,7 +399,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Me</h3>
-                <p>sami.nabhan20@gmail.com</p>
+                <p>sami@infinet.ps</p>
               </div>
             </div>
           </div><!-- End Info Item -->
