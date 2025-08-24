@@ -12,7 +12,7 @@ class HomeController extends Controller
             'category' => 'Ecommerce',
             'client' => 'Technology Store',
             'date' => 'January 2025',
-            'url' => '#',
+            'url' => 'https://ecommerce.infinet.ps/',
             'description' => 'A comprehensive ecommerce platform built with Laravel and Bootstrap. Features include user authentication, product management, shopping cart, payment integration, and admin dashboard.',
             'features' => [
                 'User registration and authentication',
