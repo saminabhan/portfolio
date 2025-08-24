@@ -24,10 +24,21 @@ class HomeController extends Controller
             ],
             'technologies' => ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
             'images' => [
-                'assets/img/portfolio/ecommerce(1).png',
-                'assets/img/portfolio/ecommerce(2).png',
-                'assets/img/portfolio/ecommerce(3).png'
-            ]
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(1).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(2).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(3).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(4).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(5).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(6).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(7).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(8).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(9).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(10).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(11).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(12).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(13).png',
+                'assets/img/portfolio/Technology&ElectronicsStore/ecommerce(14).png',
+                ]
         ],
         'ecommerce-2' => [
             'title' => 'Clothing Shopping Store',
