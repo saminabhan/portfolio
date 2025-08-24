@@ -3,7 +3,7 @@
   <!-- Hero Section -->
   <section id="hero" class="hero section dark-background">
 
-    <img src="assets/img/main-profile.jpg" alt="" data-aos="fade-in">
+    <img src="{{ asset('assets/img/main-profile.jpg') }}" alt="" data-aos="fade-in">
 
     <div class="container d-flex flex-column align-items-center justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
       <h2>I am Sami Nabhan</h2>
@@ -19,7 +19,7 @@
   <div class="row gy-4">
     <div class="col-md-6 d-flex flex-column align-items-center text-center">
 
-      <img src="assets/img/profile.JPG" class="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
+      <img src="{{ asset('assets/img/profile.JPG') }}" class="img-fluid rounded-circle mb-3 profile-img" alt="Profile Picture">
       
       <div class="about-info p-5 about-profile-info">
         <p><strong>Name: </strong> <span>Sami Wael Nabhan</span></p>
@@ -248,7 +248,7 @@
   <!-- Stats Section -->
   <section id="stats" class="stats section accent-background">
 
-    <img src="assets/img/stats-bg.jpg" alt="" data-aos="fade-in">
+    <img src="{{ asset('assets/img/stats-bg.jpg') }}" alt="" data-aos="fade-in">
 
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
 
@@ -309,44 +309,44 @@
     <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
       <div class="col-lg-6 col-md-6 portfolio-item isotope-item ecommerce">
-        <img src="assets/img/portfolio/ecommerce(1).png" class="img-fluid" alt="Ecommerce 1">
+        <img src="{{ asset('assets/img/portfolio/ecommerce(1).png') }}" class="img-fluid" alt="Ecommerce 1">
         <div class="portfolio-info">
           <h4>Technology & Electronics Store</h4>
           <p>A project showcasing an ecommerce platform</p>
-          <a href="assets/img/portfolio/ecommerce(1).png" title="Technology & Electronics Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="{{ asset('assets/img/portfolio/ecommerce(1).png') }}" title="Technology & Electronics Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
           <a href="{{ route('project-details', 'ecommerce-1') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
       <div class="col-lg-6 col-md-6 portfolio-item isotope-item ecommerce">
-        <img src="assets/img/portfolio/ecommerce(3).png" class="img-fluid" alt="Ecommerce 1">
+        <img src="{{ asset('assets/img/portfolio/ecommerce(3).png') }}" class="img-fluid" alt="Ecommerce 1">
         <div class="portfolio-info">
           <h4>Clothing Shopping Store</h4>
           <p>A project showcasing an ecommerce platform</p>
-          <a href="assets/img/portfolio/ecommerce(3).png" title="Clothing Shopping Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="{{ asset('assets/img/portfolio/ecommerce(3).png') }}" title="Clothing Shopping Store" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
           <a href="{{ route('project-details', 'ecommerce-2') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
       <div class="col-lg-6 col-md-6 portfolio-item isotope-item dashboards">
-        <img src="assets/img/portfolio/dashboard(1).png" class="img-fluid" alt="Dashboard 1">
+        <img src="{{ asset('assets/img/portfolio/dashboard(1).png') }}" class="img-fluid" alt="Dashboard 1">
         <div class="portfolio-info">
           <h4>Dashboard(1) For Ecommerce Project</h4>
           <p>A project showcasing a dashboard interface</p>
-          <a href="assets/img/portfolio/dashboard(1).png" title="Dashboard(1) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="{{ asset('assets/img/portfolio/dashboard(1).png') }}" title="Dashboard(1) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
           <a href="{{ route('project-details', 'dashboard-1') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
       </div><!-- End Portfolio Item -->
 
       <div class="col-lg-6 col-md-6 portfolio-item isotope-item dashboards">
-        <img src="assets/img/portfolio/dashboard(2).png" class="img-fluid" alt="Dashboard 1">
+        <img src="{{ asset('assets/img/portfolio/dashboard(2).png') }}" class="img-fluid" alt="Dashboard 1">
         <div class="portfolio-info">
           <h4>Dashboard(2) For Ecommerce Project</h4>
           <p>A project showcasing a dashboard interface</p>
-          <a href="assets/img/portfolio/dashboard(2).png" title="Dashboard(2) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="{{ asset('assets/img/portfolio/dashboard(2).png') }}" title="Dashboard(2) For Ecommerce Project" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <!-- project link -->
           <a href="{{ route('project-details', 'dashboard-2') }}" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
         </div>
