@@ -102,7 +102,7 @@
 
   <div class="container">
     <div class="copyright text-center ">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">Infinity Co.</strong> <span>All Rights Reserved</span></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Sami Nabhan</strong> <span>All Rights Reserved</span></p>
     </div>
     <div class="social-links d-flex justify-content-center">
       <a href="https://www.facebook.com/sami.nabhan.142" target="_blank"><i class="bi bi-facebook"></i></a>
